@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi, I'm Ganesan Rajendran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img aligh="center" alt="coding" width="100%" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
